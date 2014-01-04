@@ -1,8 +1,7 @@
-insid MWM edit
-
 This project is an OpenGL 3.2 core Syphon implementation initiated by the insid MWM team.
 
 See http://www.insidinc.com for more informations.
+
 
 
 Syphon is an open source Mac OS X technology that allows applications to share video and still images with one another in realtime. 
