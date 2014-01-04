@@ -7,6 +7,6 @@ This project hosts the Syphon.framework for developers who want to integrate Syp
 
 insid MWM edit
 
-This project is an OpenGL 3.2 core Syphon implementation initiated by the insid team.
+This project is an OpenGL 3.2 core Syphon implementation initiated by the insid MWM team.
 
 See http://www.insidinc.com for more informations.
