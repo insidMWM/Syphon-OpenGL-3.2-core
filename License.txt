@@ -1,6 +1,6 @@
 Syphon OpenGL 3.2 core License:
 
-Copyright 2013 insdi MWM (Romain Cheminade, Benjamin Roy).
+Copyright 2013 insid MWM (Romain Cheminade, Benjamin Roy).
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
