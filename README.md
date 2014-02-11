@@ -1,3 +1,8 @@
+Pay attention !!!
+The client part is working fine, compatibility with previous OpenGL versions is working too.
+We're currently working on the server part....
+
+
 This project is an OpenGL 3.2 core Syphon implementation initiated by the insid MWM team.
 
 See http://www.insidinc.com for more informations.
